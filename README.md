@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_1714298730](https://github.com/H1aitham/business-card-app-UI-flutter/assets/168301401/3091fdae-4752-411c-9ad3-ad20c18d76dc)
+
 
 This project is a starting point for a Flutter application.
 
